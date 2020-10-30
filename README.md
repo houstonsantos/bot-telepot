@@ -6,9 +6,9 @@
 Neste repositório estou criando dois exemplos básicos, de envio e recebimento de mensagem e imagem com Bot em Python usando a biblioteca Telepot. E um exemplo de troca de menagem de Bot do Telegram com Protheus ERP da TOTVS.
 
 ### **Protheus**
-> Troca de mensagem emtre o EPR Protheus e um server Python com Bot do Telegram usando socket e Telepot.
+> Troca de mensagem emtre o EPR Protheus e um server Python com socket e via REST com Bot do Telegram usando Telepot.
 
 ### **Socket**
-> Troca de mensagem entre um cliente e server em Python com Bot do Telegram usando socket e Telepot. 
+> Troca de mensagem entre um cliente e server em Python com socket e via REST com Bot do Telegram usando Telepot. 
 
 https://telepot.readthedocs.io/en/latest/index.html#
